@@ -44,9 +44,9 @@ A fully functional **Netflix Clone** built with **React** and **Firebase**. This
 5. **Start the development server:**  
    `npm start`
 
-## 🌐 Live Demo
-`https://youtu.be/awTpQISFo78`
+## 🎥 Demo Video
 
+[![Netflix Clone Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/awTpQISFo78)
 
 
 
