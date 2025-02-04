@@ -47,7 +47,7 @@ A fully functional **Netflix Clone** built with **React** and **Firebase**. This
 ## 🎥 Demo Video
 
 
-[![image](https://github.com/user-attachments/assets/588fe7bc-ea7b-4026-868b-fd71c4b408f9)![Netflix Clone Demo]](https://youtu.be/awTpQISFo78)
+[![image](https://github.com/user-attachments/assets/588fe7bc-ea7b-4026-868b-fd71c4b408f9)](https://youtu.be/awTpQISFo78)
 
 
 
